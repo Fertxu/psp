@@ -6,4 +6,4 @@
 
 \f0\fs24 \cf0 hola \
 prueba txt\
-adios}
+adios}linea añadida desde terminal
